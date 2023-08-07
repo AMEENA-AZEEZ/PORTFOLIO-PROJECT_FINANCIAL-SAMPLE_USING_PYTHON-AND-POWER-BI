@@ -3,7 +3,7 @@ A project on financial dataset analysis using Python and Power BI to draw valuab
 
 This repository contains,
 
-##EDA on financial dataset using PYTHON
+###EDA on financial dataset using PYTHON
 
 EDA is done with the help of Jupyter Notebook using Modules like Pandas,Numpy,Matplotlib and Seaborn.
 
