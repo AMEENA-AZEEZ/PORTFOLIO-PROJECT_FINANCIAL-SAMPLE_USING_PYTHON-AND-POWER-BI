@@ -3,17 +3,17 @@ A project on financial dataset analysis using Python and Power BI to draw valuab
 
 This repository contains,
 
-#EDA on financial dataset using PYTHON
+EDA on financial dataset using PYTHON
 
 EDA is done with the help of Jupyter Notebook using Modules like Pandas,Numpy,Matplotlib and Seaborn.
 
 The steps involved in EDA are,
 
-####Dataset Loading
+Dataset Loading
 
-####Exploring Data
+Exploring Data
 
-####Relationship Plotting
+Relationship Plotting
     The plots used for relationship visualization are,
     1.Heat Map
     2.Bar plots
@@ -22,6 +22,6 @@ The steps involved in EDA are,
     5.Scatter plots 
 
     
-##Data Analysis using POWER BI
+Data Analysis using POWER BI
 
 Power BI helps in finding valuable insights from a dataset.This dataset contains sales,profit and discount related informations..By evaluating the dataset using different KPIs helps in knowing how much the company sell and gain over the given period.
