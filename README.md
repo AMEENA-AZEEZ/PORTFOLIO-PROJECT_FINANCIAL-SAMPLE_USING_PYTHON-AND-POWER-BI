@@ -15,6 +15,8 @@ Exploring Data
 
 Relationship Plotting
     The plots used for relationship visualization are,
+
+    
     1.Heat Map
     2.Bar plots
     3.Pair Plots
